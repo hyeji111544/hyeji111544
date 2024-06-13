@@ -1,8 +1,14 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hyeji's%20Github.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=160&section=header&text=Hyeji's%20Github.&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
+<div align="center">
 
+# 👩‍💻 개발자 윤혜지의 GitHub
+"모르는걸 탐구하고 알아가는과정을 즐기는 개발자" <br>
+Java 를 기반으로 웹개발을 공부하는 중입니다.
 
-**My SKILLS**
+<br>
+
+## 🛠️ Technologies & Tools
 <p>
     <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-40A9FF?style=flat&logo=CSS3&logoColor=white">
@@ -25,10 +31,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 </p>
 
+<br>
+
+  ## 📈 GitHub Stats
 <a href="https://github.com/hyeji111544">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hyeji111544" />
 </a>
 <a href="https://github.com/hyeji111544">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeji111544&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+</div>
 
