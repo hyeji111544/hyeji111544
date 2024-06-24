@@ -8,6 +8,7 @@ Java 를 기반으로 웹개발을 공부하는 중입니다.
 
 <br>
 
+
 ## 🛠️ Technologies & Tools
 <p>
     <img src="https://img.shields.io/badge/JavaScript-F5FF38?style=flat&logo=JavaScript&logoColor=white">
@@ -30,6 +31,16 @@ Java 를 기반으로 웹개발을 공부하는 중입니다.
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 </p>
+
+<br>
+
+## 📖 프로젝트
+|작업 기한|프로젝트 명| 이동 |
+|-|-|-|
+|24.05.20~24.06.21| ZeroPie 그룹웨어 프로젝트 |[이동](https://github.com/hyeji111544/zeropie-back)|
+|24.04.15~24.05.17| LotteOn 쇼핑몰 프로젝트| [이동](https://github.com/hyeji111544/lotteOn)|
+|24.04.01~24.04.12| farmstory 프로젝트| [이동](https://github.com/hyeji111544/famstory)|
+|24.03.19~24.03.31| Sboard 게시판 프로젝트| [이동](https://github.com/hyeji111544/Sboard)|
 
 <br>
 
