@@ -6,6 +6,7 @@
 "모르는걸 탐구하고 알아가는과정을 즐기는 개발자" <br>
 Java 를 기반으로 웹개발을 공부하는 중입니다. <br>
 기초를 쌓고 사고 능력 증진을 위해 [알고리즘](https://github.com/hyeji111544/Algorithm)을 공부하고 있습니다. 
+[블로그](https://inblog.ai/hj?traffic_type=internal) 작성중인 블로그입니다.
 
 <br>
 
